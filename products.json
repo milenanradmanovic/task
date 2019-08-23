@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "productTitle": "Chronograph",
+      "price": {
+        "value": 500.01,
+        "currency": "USD"
+      },
+      "inventory": 2
+    },
+    {
+      "id": 2,
+      "productTitle": "Quartz",
+      "price": {
+        "value": 10.99,
+        "currency": "USD"
+      },
+      "inventory": 0
+    },
+    {
+      "id": 3,
+      "productTitle": "Weekender",
+      "price": {
+        "value": 19.99,
+        "currency": "USD"
+      },
+      "inventory": 5
+    }
+  ]
